@@ -18,4 +18,4 @@
 ## Project 3 [Live Link]()
 #### Preview
 
-![Desktop](./preview.png)
+![Desktop](./Preview.png)
